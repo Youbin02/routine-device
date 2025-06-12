@@ -8,4 +8,7 @@ main.py
 
 모듈  
 moter_control.py  
-LCD_1inch28.py , lcdconfig.py
+LCD_1inch28.py , lcdconfig.py  
+
+기타  
+LCD 아이콘 zip
